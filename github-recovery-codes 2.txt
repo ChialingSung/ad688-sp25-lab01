@@ -14,4 +14,3 @@ cb8bd-1a607
 7c080-4dc30
 84cc7-03b53
 02bba-22f70
-This is the Lab 01 repository for AD688 SP25.
